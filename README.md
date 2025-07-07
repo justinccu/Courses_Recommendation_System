@@ -9,7 +9,11 @@ A Python + C-based system for smart course searching, recommendation, and visual
 ## or if make doesn't work  
 > gcc -o test.out main.c Person.c import.c  
 ## Then
-> python gui.py  
+> python gui.py
+>
+## Please download the package and unzip it to your folder if you want to use the course recommendation feature!
+> https://drive.google.com/file/d/115gtl6dhmUI5FZRuYJD5tEydIS9lSp2J/view?usp=sharing
+
 
 # Program_Final
 The user interface allow as to search courses, and add courses you want, if you don't satisfied the course, you also can delete the courses. After you have selected your course done, you can preview the classtable and save it. There is a manual about the system.
