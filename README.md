@@ -3,11 +3,9 @@
 
 A Python + C-based system for smart course searching, recommendation, and visual class scheduling.
 
-Check out the feature:
-https://prezi.com/view/AvlN9mEEcYthHXyeuluw/?referral_token=w5nP5XlnB3FN
-
-
 ---
+Presentation demo: [View on Prezi](https://prezi.com/view/AvlN9mEEcYthHXyeuluw/?referral_token=w5nP5XlnB3FN)
+
 ## Quick Start
 > make  
 ## or if make doesn't work  
